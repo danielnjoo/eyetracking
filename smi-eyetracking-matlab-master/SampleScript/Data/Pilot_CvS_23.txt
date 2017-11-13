@@ -1,0 +1,6 @@
+
+Trial	Stimulus	RT	InputType	InputNum	Response
+1	1	6618.033	Obj Name	4	dtdfdf
+1	1	1873.226	Contextual	1	g
+1	1	2830.583	Semantic	2	ggggggggggg
+1	1	3135.152	Both	3	ggggggggggggg

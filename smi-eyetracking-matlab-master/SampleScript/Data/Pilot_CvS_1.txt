@@ -1,0 +1,2 @@
+
+Trial	Stimulus	RT	InputType	InputNum	Response

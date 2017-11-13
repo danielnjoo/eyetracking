@@ -1,0 +1,1 @@
+3692 00303.175   ERROR     !ticket carries no result
